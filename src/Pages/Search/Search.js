@@ -33,7 +33,7 @@ const Search = () => {
     try {
       const { data } = await axios.get(
         `https://api.themoviedb.org/3/search/${type ? "tv" : "movie"}?api_key=${
-          process.env.REACT_APP_API_KEY
+          '5a38744920bd175460802ce1939fb9b2'
         }&language=en-US&query=${searchText}&page=${page}&include_adult=false`
       );
       setContent(data.results);
