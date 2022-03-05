@@ -1,4 +1,4 @@
-# Flicker by 'Naveen Singh' and 'Nitin Gupta'
+# Flicker
 <table>
 <tr>
 <td>
