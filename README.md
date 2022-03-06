@@ -3,10 +3,7 @@
 <tr>
 <td>
   Movie App built in React JS and Material UI.
-</td>
-<td>
-  Created by -  Naveen Singh and Nitin Gupta.
-</td>
+  </td>
 </tr>
 </table>
 
